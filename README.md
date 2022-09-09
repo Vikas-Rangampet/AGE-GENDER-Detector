@@ -18,3 +18,21 @@
  7. Upload the image to detect
  8. Click on the detect button 
  9. View Results
+
+##Sample outputs:
+###1:
+![Sample output1]()
+###2
+![Sample output2]()
+###3
+![Sample output3]()
+###4
+![Sample output4]()
+###5
+![Sample output5]()
+###6
+![Sample output6]()
+###7
+![Sample output7]()
+###8
+![Sample output8]()
