@@ -20,19 +20,27 @@
  9. View Results
 
 ##Sample outputs:
-###1:
-![Sample output1]()
-###2
-![Sample output2]()
+ 
+ ###1:
+![Sample output1](https://github.com/Vikas-Rangampet/AGE-GENDER-Detector/blob/main/output8.png)
+ 
+ ###2
+![Sample output2](https://github.com/Vikas-Rangampet/AGE-GENDER-Detector/blob/main/output7.png)
+
 ###3
-![Sample output3]()
+![Sample output3](https://github.com/Vikas-Rangampet/AGE-GENDER-Detector/blob/main/output6.png)
+
 ###4
-![Sample output4]()
+![Sample output4](https://github.com/Vikas-Rangampet/AGE-GENDER-Detector/blob/main/output5.png)
+
 ###5
-![Sample output5]()
+![Sample output5](https://github.com/Vikas-Rangampet/AGE-GENDER-Detector/blob/main/output4.png)
+
 ###6
-![Sample output6]()
+![Sample output6](https://github.com/Vikas-Rangampet/AGE-GENDER-Detector/blob/main/output3.png)
+
 ###7
-![Sample output7]()
+![Sample output7](https://github.com/Vikas-Rangampet/AGE-GENDER-Detector/blob/main/output2.png)
+
 ###8
-![Sample output8]()
+![Sample output8](https://github.com/Vikas-Rangampet/AGE-GENDER-Detector/blob/main/output1.png)
